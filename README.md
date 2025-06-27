@@ -77,7 +77,7 @@
 > **Note:** For security reasons, all API keys have been removed. To run the project, you must reconfigure Firebase, Google Maps API, Firebase Cloud Messaging, Gemini API, and OpenAI.
 
 ```bash
-git clone https://github.com/TrDyy/Nhom7_Mobile_XayDungDeTaiQuanLyDanhGiaDuLich.git
-cd Nhom7_Mobile_XayDungDeTaiQuanLyDanhGiaDuLich
+git clone https://github.com/TrDyy/MangXaHoiDuLich
+cd MangXaHoiDuLich
 flutter pub get
 flutter run
